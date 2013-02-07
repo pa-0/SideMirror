@@ -1,0 +1,9 @@
+C:\Projects\SideMirror\SideMirror\bin\Debug\SideMirror.exe.config
+C:\Projects\SideMirror\SideMirror\bin\Debug\SideMirror.exe
+C:\Projects\SideMirror\SideMirror\bin\Debug\SideMirror.pdb
+C:\Projects\SideMirror\SideMirror\obj\Debug\SideMirror.csprojResolveAssemblyReference.cache
+C:\Projects\SideMirror\SideMirror\obj\Debug\SideMirror.Form1.resources
+C:\Projects\SideMirror\SideMirror\obj\Debug\SideMirror.Properties.Resources.resources
+C:\Projects\SideMirror\SideMirror\obj\Debug\SideMirror.csproj.GenerateResource.Cache
+C:\Projects\SideMirror\SideMirror\obj\Debug\SideMirror.exe
+C:\Projects\SideMirror\SideMirror\obj\Debug\SideMirror.pdb

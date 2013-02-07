@@ -1,0 +1,9 @@
+C:\Projects\SideMirror\SideMirror\bin\Release\SideMirror.exe.config
+C:\Projects\SideMirror\SideMirror\bin\Release\SideMirror.exe
+C:\Projects\SideMirror\SideMirror\bin\Release\SideMirror.pdb
+C:\Projects\SideMirror\SideMirror\obj\Release\SideMirror.Properties.Resources.resources
+C:\Projects\SideMirror\SideMirror\obj\Release\SideMirror.csproj.GenerateResource.Cache
+C:\Projects\SideMirror\SideMirror\obj\Release\SideMirror.exe
+C:\Projects\SideMirror\SideMirror\obj\Release\SideMirror.pdb
+C:\Projects\SideMirror\SideMirror\obj\Release\SideMirror.csprojResolveAssemblyReference.cache
+C:\Projects\SideMirror\SideMirror\obj\Release\SideMirror.MainForm.resources
