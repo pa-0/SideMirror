@@ -1,0 +1,10 @@
+Your notes in here about wht you're demoing
+You could use any application in the secondary screen
+
+You can increase / decrease Frames Per Second (FPS) live while demoing to accomodate performance of your computer
+You can press at "Always on Top" any time
+Secondary screen is always selected by default however you can switch between more than two screens if you have them
+You can always have multiple instances of the application open to monitor more than one screen
+
+Press that start / stop Capture to start capturing the external screen
+
